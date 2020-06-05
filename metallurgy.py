@@ -5,7 +5,7 @@ import essentia.standard as es
 
 def main():
 
-    # TODO: all of the works
+    # TODO: all of the work
 
 if __name__ == '__main__':
     main()
